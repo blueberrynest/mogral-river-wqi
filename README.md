@@ -127,6 +127,9 @@ LBS College of Engineering Kasaragod
 
 ## License
 
-Academic archive – original work preserved for educational and research reference.
+This project is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+See [LICENSE](LICENSE).
 
 ---
