@@ -164,6 +164,17 @@ mogral-river-wqi
 
 ---
 
+## 02-sampling_design
+
+This directory contains the spatial sampling design for the Mogral River
+water quality study.
+
+Contents:
+- sampling stations dataset
+- sampling maps
+- cluster maps of sampling locations
+- sampling strategy and methodology
+
 ## Future Extensions
 
 Planned improvements to the repository include:
